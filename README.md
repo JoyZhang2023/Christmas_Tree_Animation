@@ -1,9 +1,7 @@
 # Rotating Christmas Tree Animation
 ### Generate with Gemini 3
 
-<div align="center">
-https://github.com/user-attachments/assets/4a486334-2f2c-4097-ae90-8e875c076462
-</div>
+https://github.com/user-attachments/assets/4dccb3db-d2a0-4204-bc24-40546d34a1eb
 
 # Run and deploy your AI Studio app
 
