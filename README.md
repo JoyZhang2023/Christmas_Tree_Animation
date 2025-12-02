@@ -1,5 +1,8 @@
+# Rotating Christmas Tree Animation
+### Generate with Gemini 3
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+https://github.com/user-attachments/assets/4a486334-2f2c-4097-ae90-8e875c076462
 </div>
 
 # Run and deploy your AI Studio app
